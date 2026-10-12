@@ -1,0 +1,6 @@
+{
+  "name": "VY Dental Care | Dental Clinic in Gandhinagar, Gujarat",
+  "description": "VY Dental Care in Gandhinagar, Gujarat provides gentle, modern dental care including check-ups, cosmetic dentistry, veneers, digital X-rays, and urgent care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
